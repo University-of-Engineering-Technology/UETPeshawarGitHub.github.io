@@ -8,6 +8,9 @@
 
 UET Peshawar GitHub now helps you to start with first contributing to open source.
 
+You can seee all contributors here and can include your name as contributor:
+https://university-of-engineering-technology.github.io/UETPeshawarGitHub.github.io/
+
 ## Just for the instruction!
 
 <img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
