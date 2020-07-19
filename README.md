@@ -11,7 +11,7 @@ UET Peshawar GitHub now helps you to start with first contributing to open sourc
 You can seee all contributors here and can include your name as contributor:
 https://university-of-engineering-technology.github.io/UETPeshawarGitHub.github.io/
 
-## Just for the instruction!
+## Instruction!
 
 <img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
 
@@ -39,17 +39,17 @@ git clone "URL you just copied"
 For example:
 
 ```
-git clone https://github.com/this-is-you/first-contributions.git
+git clone https://github.com/MianJawadAhmad/UETPeshawarGitHub.github.io.git
 ```
 
-where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository in GitHub to your computer.
+where `MianJawadAhmad` will be your GitHub username. Here you're copying the contents of the UETPeshawarGitHub.github.io.git repository in GitHub to your computer.
 
 ## Create a branch
 
 Change to the repository directory on your computer (if you are not already there):
 
 ```
-cd first-contributions
+cd UETPeshawarGitHub.github.io.git
 ```
 
 Now create a branch using the `git checkout` command:
@@ -61,7 +61,7 @@ git checkout -b <add-your-new-branch-name>
 For example:
 
 ```
-git checkout -b add-muhammad
+git checkout -b add-Jawad
 ```
 
 (The name of the branch does not need to have the word _add_ in it, but it's a reasonable thing to include because the purpose of this branch is to add your name to a list.)
